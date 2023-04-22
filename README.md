@@ -31,6 +31,7 @@
 3. Select Hosting using the up and down arrow keys and use space bar to select.
 4. Choose an existing project.
 5. Select the project carefully.
+6. Select   Question What do you want to use as your public directory? Ans:(public) Create Project By `Vite` Ans Is `dist` Create Project By React App Ans Is `build`  
 6. Set the public directory to `dist`.
 7. Select Yes for Single Page Application.
 8. Choose No for Continuous Deployment.
