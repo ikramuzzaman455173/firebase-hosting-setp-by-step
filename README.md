@@ -9,14 +9,14 @@
 5. In the Firebase console, go to Build > Authentication > Get Started and enable sign-in method.
 6. Create sign-up and login routes.
 
-## Setting up a Context Provider
+<!-- ## Setting up a Context Provider
 
 1. Create a context provider file.
 2. Create a context and set the provider.
 3. Set the `children` props.
 4. Set the context value.
 5. Set the provider.
-
+-->
 ## Hosting the project
 
 ### One-time Setup per Computer
